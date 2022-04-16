@@ -1,5 +1,5 @@
 {% set name = "ta" %}
-{% set version = "0.9.0" %}
+{% set version = "0.10.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/bukosabino/{{ name }}/archive/{{ version }}.tar.gz
-  sha256: 96ff07c9aa901bc93cf5d9283481b8c86fc49c28d401d37ff3ea5c39120437e7
+  sha256: 4a924794362cad06b66a722a8511d8aac0c537f82bd0f814d923543e4bfb5401
 
 build:
   number: 0
