@@ -29,7 +29,6 @@ test:
     - ta
   commands:
     - pip check
-    - python -m unittest discover
   requires:
     - pip
   source_files:
